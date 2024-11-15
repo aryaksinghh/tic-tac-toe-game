@@ -1,0 +1,1 @@
+<p>There is nothing special in this code. This is basically a easy web or javascript project for beginners. With this project you can get a lot of practical knowledge about javascript. Use it and if you can add some more things in program then go for it and send the pull request.</p>
